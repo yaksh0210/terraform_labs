@@ -1,0 +1,1 @@
+"It's just an demo practical to run it you need to define your own aws credentials first"
