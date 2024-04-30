@@ -1,5 +1,5 @@
 variable "project-sapphire-users" {
      type = list(string)
-     default = [ "mary", "jack", "jill", "mack", "buz>
+     default = [ "mary", "jack", "jill", "mack", "buz"]
 }
 
